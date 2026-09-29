@@ -1,0 +1,38 @@
+{
+  "author": {
+    "id": "au-mumlvhn7zooq",
+    "keyId": "5130f2c97ae0",
+    "name": "sleephah"
+  },
+  "category": "玩法",
+  "changelog": "",
+  "conflicts": [],
+  "delisted": false,
+  "description": "本服自研「移动仓库（林鼠 Packrat）采矿」玩法，从 server/ 剥离为 mod。由 loader.js 在服务端启动最早期把 src/mobileDepotRuntime.js 的加载结果替换成 mod 内的实现：★不修改 server/ 任何文件，关掉注入即完全回原版★。",
+  "displayName": "林鼠 · 采矿（Packrat Mining）",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/guihaitianyi-cmd/evejs-mod-evejs-packrat-mining/releases/download/v1.0.0/evejs-packrat-mining-1.0.0.zip"
+    }
+  ],
+  "evejsVersions": [
+    "0.12.8",
+    "0.12.9"
+  ],
+  "featured": false,
+  "highlights": [],
+  "history": [],
+  "id": "evejs-packrat-mining",
+  "publishedAt": "2026-09-29",
+  "readme": [
+    "把本服自研的**移动仓库（林鼠 Packrat）采矿**玩法，从 `server/` 剥离成一个 mod。"
+  ],
+  "repo": "https://github.com/guihaitianyi-cmd/evejs-mod-evejs-packrat-mining",
+  "requiresRestart": true,
+  "sha256": "8bc137b5d94a573ebfa4ebe4a52f09746f32a866d40ac0764dc5fea2e108d7fc",
+  "sizeBytes": 19350,
+  "tags": [],
+  "version": "1.0.0"
+}
